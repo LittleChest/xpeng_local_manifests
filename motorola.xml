@@ -9,6 +9,6 @@
   <project name="LineageOS/android_kernel_motorola_sm7325" path="kernel/motorola/sm7325" remote="github" revision="lineage-20"/>
 
   <!-- vendor -->
-  <project name="the-muppets/proprietary_vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" remote="gitlab" revision="lineage-20"/>
+  <project name="moto-sm7325/proprietary_vendor_motorola_sm7325-common" path="vendor/motorola/sm7325-common" remote="gitlab" revision="lineage-20"/>
   <project name="moto-sm7325/proprietary_vendor_motorola_xpeng" path="vendor/motorola/xpeng" remote="gitlab" revision="lineage-20"/>
 </manifest>
